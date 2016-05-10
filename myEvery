@@ -1,0 +1,6 @@
+
+
+function isGreater(Array[i],callback)
+return [i] callback >= 100
+
+Array[i].every(isGreater)? [i] :100 ;

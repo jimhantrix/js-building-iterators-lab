@@ -1,0 +1,13 @@
+
+
+var beeHives  = ['1','2','3','4']
+
+var Honey = [i]
+
+function  checkForHoney(,Array,beeHives){
+for (i = 0 ;  0 < beeHives.length; i++  )
+return Array.some(function (checkForHoney,[i]))
+if ([i]=== Honey[i])
+
+}
+console.log ("getHoney[i]")
